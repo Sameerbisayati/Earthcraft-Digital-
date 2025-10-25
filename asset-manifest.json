@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/carwebsite/static/css/main.d4589459.css",
-    "main.js": "/carwebsite/static/js/main.72cbf8c6.js",
-    "static/js/453.14f09d07.chunk.js": "/carwebsite/static/js/453.14f09d07.chunk.js",
-    "static/media/Banner.jpg": "/carwebsite/static/media/Banner.474e960227fc3aa62dcb.jpg",
-    "static/media/Banner2.jpg": "/carwebsite/static/media/Banner2.ad7c5362a7514829b7ef.jpg",
-    "static/media/logo2.jpg": "/carwebsite/static/media/logo2.e3cdb10e9575a2642b1a.jpg",
-    "index.html": "/carwebsite/index.html",
-    "main.d4589459.css.map": "/carwebsite/static/css/main.d4589459.css.map",
-    "main.72cbf8c6.js.map": "/carwebsite/static/js/main.72cbf8c6.js.map",
-    "453.14f09d07.chunk.js.map": "/carwebsite/static/js/453.14f09d07.chunk.js.map"
+    "main.css": "/CARWEBSITE/static/css/main.d4589459.css",
+    "main.js": "/CARWEBSITE/static/js/main.9265d06e.js",
+    "static/js/453.14f09d07.chunk.js": "/CARWEBSITE/static/js/453.14f09d07.chunk.js",
+    "static/media/Banner.jpg": "/CARWEBSITE/static/media/Banner.474e960227fc3aa62dcb.jpg",
+    "static/media/Banner2.jpg": "/CARWEBSITE/static/media/Banner2.ad7c5362a7514829b7ef.jpg",
+    "static/media/logo2.jpg": "/CARWEBSITE/static/media/logo2.e3cdb10e9575a2642b1a.jpg",
+    "index.html": "/CARWEBSITE/index.html",
+    "main.d4589459.css.map": "/CARWEBSITE/static/css/main.d4589459.css.map",
+    "main.9265d06e.js.map": "/CARWEBSITE/static/js/main.9265d06e.js.map",
+    "453.14f09d07.chunk.js.map": "/CARWEBSITE/static/js/453.14f09d07.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4589459.css",
-    "static/js/main.72cbf8c6.js"
+    "static/js/main.9265d06e.js"
   ]
 }
